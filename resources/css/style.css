@@ -19,8 +19,7 @@ h1, h2{
 
 h1{
     font-size: 50px;
-    font-weight: normal;
-
+    /*font-weight: normal;*/
 }
 
 
@@ -49,7 +48,8 @@ p{
 
 }
 
-#mid{
-    margin: 0, auto;
+div{
+    display: flex;
+    justify-content: center;
 
 }
