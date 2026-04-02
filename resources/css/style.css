@@ -42,12 +42,14 @@ p{
 }
 
 
-#back, #front{
+#front{
     width: 400px;
     display: inline-block;
+    z-index: 1;
 
 }
 
-#front{
-    z-index: 1;
+#mid{
+    margin: 0, auto;
+
 }
