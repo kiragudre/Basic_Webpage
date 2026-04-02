@@ -1,5 +1,6 @@
 *{
-    position: center;
+    text-align: center;
+    background-color: black;
 }
 
 a{
@@ -33,4 +34,8 @@ h2{
 h3, p{
     color:grey;
     font-size: 21px;
+}
+
+p{
+    text-align: right !important;
 }
