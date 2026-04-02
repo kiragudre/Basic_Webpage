@@ -1,6 +1,7 @@
 *{
     text-align: center;
     background-color: black;
+    display: block;
 }
 
 a{
@@ -38,4 +39,15 @@ h3, p{
 
 p{
     text-align: right !important;
+}
+
+
+#back, #front{
+    width: 400px;
+    display: inline-block;
+
+}
+
+#front{
+    z-index: 1;
 }
