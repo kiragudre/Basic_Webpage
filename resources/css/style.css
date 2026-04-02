@@ -2,6 +2,7 @@
     text-align: center;
     background-color: black;
     display: block;
+    font-family: verdana;
 }
 
 a{
@@ -9,9 +10,7 @@ a{
     font-size: 16px;
 }
 
-h1, h2, h3, p{
-    font-family: verdana;   
-}
+
 
 h1, h2{
     color: white;
@@ -20,6 +19,7 @@ h1, h2{
 
 h1{
     font-size: 50px;
+    font-weight: normal;
 
 }
 
